@@ -1,14 +1,5 @@
-# MEVN stack twitter clone
+# This is my first Nagarro Project
 ### Here is live demo: https://twitter-cln.herokuapp.com
-### START: 29 november 2020
-<!-- ### NOTE: november 6 - novermber 17 my computer is broken and my lessons are too many, my project is halfway. -->
-### END: 24 december
-![alt text](https://github.com/Abdullah-V/MEVN-stack-twitter-clone/blob/master/images/Screenshot%20from%202020-12-30%2009-56-37.png)
-![alt text](https://github.com/Abdullah-V/MEVN-stack-twitter-clone/blob/master/images/Screenshot%20from%202020-12-30%2009-56-45.png)
-![alt text](https://github.com/Abdullah-V/MEVN-stack-twitter-clone/blob/master/images/Screenshot%20from%202020-12-30%2009-56-52.png)
-![alt text](https://github.com/Abdullah-V/MEVN-stack-twitter-clone/blob/master/images/Screenshot%20from%202020-12-30%2009-57-04.png)
-![alt text](https://github.com/Abdullah-V/MEVN-stack-twitter-clone/blob/master/images/Screenshot%20from%202020-12-30%2009-58-19.png)
-![alt text](https://github.com/Abdullah-V/MEVN-stack-twitter-clone/blob/master/images/Screenshot%20from%202020-12-30%2009-58-51.png)
 ## Todos:
 - [ ] Frontend
     - [x] TwitterButton component
@@ -80,9 +71,3 @@
 ## Specifications:
 * Responsive.
 * Its offering many functions of twitter.
-* **Fully handwritten** css.
-<!-- * Make by only one person.
-* Make by a 16 years old when has only been dealing with **computers and software for 6 months**.
-* **Do not "copy and paste"** from anywhere.
-* **Made without any algorithm inspiration** from anywhere.
- -->
